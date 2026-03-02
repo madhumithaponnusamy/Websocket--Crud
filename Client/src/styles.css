@@ -1,0 +1,11 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:20px}
+.auth{max-width:360px;margin:40px auto;padding:20px;border:1px solid #ddd;border-radius:6px}
+.auth input{display:block;width:100%;padding:8px;margin:8px 0}
+.auth button{padding:8px 12px}
+.links{display:flex;justify-content:space-between}
+.dashboard{max-width:720px;margin:20px auto}
+.top{display:flex;justify-content:space-between;align-items:center}
+.create{display:flex;gap:8px;margin:12px 0}
+ul{list-style:none;padding:0}
+li{padding:10px;border-bottom:1px solid #eee;display:flex;justify-content:space-between}
+.actions button{margin-left:8px}
